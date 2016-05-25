@@ -1,4 +1,4 @@
-Android Sleep History
+Sleep History for Android
 ============
 
 A sample app to read/write the sleep activity data from the Fitness API on the Android Fit platform.
